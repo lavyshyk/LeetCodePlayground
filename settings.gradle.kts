@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "LeetCodePlayground"
 include(":app")
- 
+include(":gokaem-algorithms")
+include(":thirtydaypreperation")
